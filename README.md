@@ -1,3 +1,15 @@
+<!-- token-graph:start -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mystxcal/mystxcal/main/assets/token-use.svg?v=2026-08-25-4" alt="Cumulative token use over the past 30 days" width="100%">
+</p>
+<!-- token-graph:end -->
+
+<!-- languages:start -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mystxcal/mystxcal/main/assets/languages.svg?v=2026-08-25-2" alt="Language mix across all repositories" width="100%">
+</p>
+<!-- languages:end -->
+
 Some of my work:
 
 | Tool | What | Why |
