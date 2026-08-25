@@ -1,6 +1,6 @@
 <!-- token-graph:start -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mystxcal/mystxcal/main/assets/token-use.svg?v=2026-08-25-4" alt="Cumulative token use over the past 30 days" width="100%">
+  <img src="https://raw.githubusercontent.com/mystxcal/mystxcal/main/assets/token-use.svg?v=2026-08-26-4" alt="Cumulative token use over the past 30 days" width="100%">
 </p>
 <!-- token-graph:end -->
 

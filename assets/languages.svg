@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
   <title id="title">Language mix across all repositories</title>
-  <desc id="description">Rust 44.7%, TypeScript 25.3%, Python 21.7%, Go 4%, JavaScript 1.1%, totalling 9.77 MB of source.</desc>
+  <desc id="description">Rust 22.2%, JavaScript 18.7%, Python 17.6%, TypeScript 16.9%, Svelte 11.8%, totalling 19.7 MB of source.</desc>
   <defs>
     <linearGradient id="barSheen" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#ffffff" stop-opacity=".13"/>
@@ -59,38 +59,40 @@
     <tspan fill="#f2f7f6">code</tspan><tspan fill="url(#wordmark)"> mix</tspan>
   </text>
   <text x="252" y="93" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="2.2">BY BYTES / ALL REPOSITORIES</text>
-  <text x="1136" y="94" text-anchor="end" fill="#c7fff0" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="17" font-weight="700" letter-spacing="1.2">9.77 MB</text>
+  <text x="1136" y="94" text-anchor="end" fill="#c7fff0" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="17" font-weight="700" letter-spacing="1.2">19.7 MB</text>
   <text x="1136" y="112" text-anchor="end" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.6">14 LANGUAGES</text>
 
   <g filter="url(#barGlow)" opacity=".2">
-    <rect x="62.00" y="148" width="480.52" height="22" fill="#dea584"/>
-    <rect x="542.52" y="148" width="272.24" height="22" fill="#3178c6"/>
-    <rect x="814.76" y="148" width="233.22" height="22" fill="#3572A5"/>
-    <rect x="1047.97" y="148" width="43.36" height="22" fill="#00ADD8"/>
-    <rect x="1091.34" y="148" width="12.04" height="22" fill="#f1e05a"/>
-    <rect x="1103.38" y="148" width="10.27" height="22" fill="#89e051"/>
-    <rect x="1113.64" y="148" width="8.30" height="22" fill="#e34c26"/>
-    <rect x="1121.94" y="148" width="5.88" height="22" fill="#8b9cb3"/>
-    <rect x="1127.82" y="148" width="3.70" height="22" fill="#3D6117"/>
-    <rect x="1131.52" y="148" width="6.48" height="22" fill="#3d4f5c"/>
+    <rect x="62.00" y="148" width="238.50" height="22" fill="#dea584"/>
+    <rect x="300.50" y="148" width="201.43" height="22" fill="#f1e05a"/>
+    <rect x="501.93" y="148" width="189.05" height="22" fill="#3572A5"/>
+    <rect x="690.98" y="148" width="182.27" height="22" fill="#3178c6"/>
+    <rect x="873.25" y="148" width="126.59" height="22" fill="#ff3e00"/>
+    <rect x="999.84" y="148" width="62.68" height="22" fill="#e34c26"/>
+    <rect x="1062.52" y="148" width="28.25" height="22" fill="#DA5B0B"/>
+    <rect x="1090.76" y="148" width="21.52" height="22" fill="#00ADD8"/>
+    <rect x="1112.28" y="148" width="18.28" height="22" fill="#663399"/>
+    <rect x="1130.56" y="148" width="7.44" height="22" fill="#3d4f5c"/>
   </g>
   <g clip-path="url(#barClip)">
-    <rect x="62.00" y="148" width="480.52" height="22" fill="#dea584"/>
-    <rect x="542.52" y="148" width="272.24" height="22" fill="#3178c6"/>
-    <rect x="814.76" y="148" width="233.22" height="22" fill="#3572A5"/>
-    <rect x="1047.97" y="148" width="43.36" height="22" fill="#00ADD8"/>
-    <rect x="1091.34" y="148" width="12.04" height="22" fill="#f1e05a"/>
-    <rect x="1103.38" y="148" width="10.27" height="22" fill="#89e051"/>
-    <rect x="1113.64" y="148" width="8.30" height="22" fill="#e34c26"/>
-    <rect x="1121.94" y="148" width="5.88" height="22" fill="#8b9cb3"/>
-    <rect x="1127.82" y="148" width="3.70" height="22" fill="#3D6117"/>
-    <rect x="1131.52" y="148" width="6.48" height="22" fill="#3d4f5c"/>
-    <rect x="542.02" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
-    <rect x="814.26" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
-    <rect x="1047.47" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
-    <rect x="1090.84" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
-    <rect x="1102.88" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
-    <rect x="1113.14" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
+    <rect x="62.00" y="148" width="238.50" height="22" fill="#dea584"/>
+    <rect x="300.50" y="148" width="201.43" height="22" fill="#f1e05a"/>
+    <rect x="501.93" y="148" width="189.05" height="22" fill="#3572A5"/>
+    <rect x="690.98" y="148" width="182.27" height="22" fill="#3178c6"/>
+    <rect x="873.25" y="148" width="126.59" height="22" fill="#ff3e00"/>
+    <rect x="999.84" y="148" width="62.68" height="22" fill="#e34c26"/>
+    <rect x="1062.52" y="148" width="28.25" height="22" fill="#DA5B0B"/>
+    <rect x="1090.76" y="148" width="21.52" height="22" fill="#00ADD8"/>
+    <rect x="1112.28" y="148" width="18.28" height="22" fill="#663399"/>
+    <rect x="1130.56" y="148" width="7.44" height="22" fill="#3d4f5c"/>
+    <rect x="300.00" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
+    <rect x="501.43" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
+    <rect x="690.48" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
+    <rect x="872.75" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
+    <rect x="999.34" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
+    <rect x="1062.02" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
+    <rect x="1090.26" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
+    <rect x="1111.78" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
     <rect x="62" y="148" width="1076" height="22" fill="url(#barSheen)"/>
   </g>
   <rect x="62" y="148" width="1076" height="22" rx="11" fill="none" stroke="#16262b" stroke-opacity=".8"/>
@@ -102,61 +104,61 @@
   <g>
     <rect x="62.0" y="214" width="10" height="10" rx="2.5" fill="#dea584"/>
     <text x="80.0" y="224" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">Rust</text>
-    <text x="62.0" y="253" fill="#dea584" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">44.7%</text>
+    <text x="62.0" y="253" fill="#dea584" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">22.2%</text>
     <text x="62.0" y="270" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">4.36 MB</text>
   </g>
   <g>
-    <rect x="305.0" y="214" width="10" height="10" rx="2.5" fill="#3178c6"/>
-    <text x="323.0" y="224" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">TypeScript</text>
-    <text x="305.0" y="253" fill="#3178c6" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">25.3%</text>
-    <text x="305.0" y="270" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">2.47 MB</text>
+    <rect x="305.0" y="214" width="10" height="10" rx="2.5" fill="#f1e05a"/>
+    <text x="323.0" y="224" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">JavaScript</text>
+    <text x="305.0" y="253" fill="#f1e05a" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">18.7%</text>
+    <text x="305.0" y="270" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">3.69 MB</text>
   </g>
   <g>
     <rect x="548.0" y="214" width="10" height="10" rx="2.5" fill="#3572A5"/>
     <text x="566.0" y="224" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">Python</text>
-    <text x="548.0" y="253" fill="#3572A5" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">21.7%</text>
-    <text x="548.0" y="270" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">2.12 MB</text>
+    <text x="548.0" y="253" fill="#3572A5" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">17.6%</text>
+    <text x="548.0" y="270" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">3.46 MB</text>
   </g>
   <g>
-    <rect x="791.0" y="214" width="10" height="10" rx="2.5" fill="#00ADD8"/>
-    <text x="809.0" y="224" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">Go</text>
-    <text x="791.0" y="253" fill="#00ADD8" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">4.03%</text>
-    <text x="791.0" y="270" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">394 KB</text>
+    <rect x="791.0" y="214" width="10" height="10" rx="2.5" fill="#3178c6"/>
+    <text x="809.0" y="224" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">TypeScript</text>
+    <text x="791.0" y="253" fill="#3178c6" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">16.9%</text>
+    <text x="791.0" y="270" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">3.34 MB</text>
   </g>
   <g>
-    <rect x="1034.0" y="214" width="10" height="10" rx="2.5" fill="#f1e05a"/>
-    <text x="1052.0" y="224" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">JavaScript</text>
-    <text x="1034.0" y="253" fill="#f1e05a" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">1.12%</text>
-    <text x="1034.0" y="270" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">109 KB</text>
+    <rect x="1034.0" y="214" width="10" height="10" rx="2.5" fill="#ff3e00"/>
+    <text x="1052.0" y="224" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">Svelte</text>
+    <text x="1034.0" y="253" fill="#ff3e00" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">11.8%</text>
+    <text x="1034.0" y="270" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">2.32 MB</text>
   </g>
   <g>
-    <rect x="62.0" y="286" width="10" height="10" rx="2.5" fill="#89e051"/>
-    <text x="80.0" y="296" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">Shell</text>
-    <text x="62.0" y="325" fill="#89e051" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">0.95%</text>
-    <text x="62.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">93.3 KB</text>
+    <rect x="62.0" y="286" width="10" height="10" rx="2.5" fill="#e34c26"/>
+    <text x="80.0" y="296" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">HTML</text>
+    <text x="62.0" y="325" fill="#e34c26" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">5.82%</text>
+    <text x="62.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">1.15 MB</text>
   </g>
   <g>
-    <rect x="305.0" y="286" width="10" height="10" rx="2.5" fill="#e34c26"/>
-    <text x="323.0" y="296" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">HTML</text>
-    <text x="305.0" y="325" fill="#e34c26" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">0.77%</text>
-    <text x="305.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">75.4 KB</text>
+    <rect x="305.0" y="286" width="10" height="10" rx="2.5" fill="#DA5B0B"/>
+    <text x="323.0" y="296" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">Jupyter Notebook</text>
+    <text x="305.0" y="325" fill="#DA5B0B" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">2.63%</text>
+    <text x="305.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">517 KB</text>
   </g>
   <g>
-    <rect x="548.0" y="286" width="10" height="10" rx="2.5" fill="#8b9cb3"/>
-    <text x="566.0" y="296" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">Lean</text>
-    <text x="548.0" y="325" fill="#8b9cb3" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">0.55%</text>
-    <text x="548.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">53.4 KB</text>
+    <rect x="548.0" y="286" width="10" height="10" rx="2.5" fill="#00ADD8"/>
+    <text x="566.0" y="296" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">Go</text>
+    <text x="548.0" y="325" fill="#00ADD8" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">2.00%</text>
+    <text x="548.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">394 KB</text>
   </g>
   <g>
-    <rect x="791.0" y="286" width="10" height="10" rx="2.5" fill="#3D6117"/>
-    <text x="809.0" y="296" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">TeX</text>
-    <text x="791.0" y="325" fill="#3D6117" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">0.34%</text>
-    <text x="791.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">33.6 KB</text>
+    <rect x="791.0" y="286" width="10" height="10" rx="2.5" fill="#663399"/>
+    <text x="809.0" y="296" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">CSS</text>
+    <text x="791.0" y="325" fill="#663399" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">1.70%</text>
+    <text x="791.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">334 KB</text>
   </g>
   <g>
     <rect x="1034.0" y="286" width="10" height="10" rx="2.5" fill="#3d4f5c"/>
     <text x="1052.0" y="296" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">Other</text>
-    <text x="1034.0" y="325" fill="#3d4f5c" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">0.60%</text>
-    <text x="1034.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">58.8 KB</text>
+    <text x="1034.0" y="325" fill="#3d4f5c" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">0.69%</text>
+    <text x="1034.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">136 KB</text>
   </g>
 </svg>
