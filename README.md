@@ -6,7 +6,7 @@
 
 <!-- languages:start -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mystxcal/mystxcal/main/assets/languages.svg?v=2026-08-25-2" alt="Language mix across all repositories" width="100%">
+  <img src="https://raw.githubusercontent.com/mystxcal/mystxcal/main/assets/languages.svg?v=2026-11-04-2" alt="Language mix across all repositories" width="100%">
 </p>
 <!-- languages:end -->
 
