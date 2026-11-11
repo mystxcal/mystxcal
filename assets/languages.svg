@@ -53,7 +53,7 @@
 
   <rect x="64" y="37" width="24" height="2" rx="1" fill="#9bffdc"/>
   <text x="100" y="43" fill="#9bffdc" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="3.2">PERSONAL INSTRUMENT / LANGUAGES</text>
-  <text x="1136" y="43" text-anchor="end" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="2">UPDATED 2026-11-10</text>
+  <text x="1136" y="43" text-anchor="end" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="2">UPDATED 2026-11-11</text>
 
   <text x="62" y="95" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-1.4">
     <tspan fill="#f2f7f6">code</tspan><tspan fill="url(#wordmark)"> mix</tspan>
@@ -64,35 +64,35 @@
 
   <g filter="url(#barGlow)" opacity=".2">
     <rect x="62.00" y="148" width="266.77" height="22" fill="#5e5086"/>
-    <rect x="328.77" y="148" width="212.72" height="22" fill="#f1e05a"/>
-    <rect x="541.49" y="148" width="136.22" height="22" fill="#3572A5"/>
-    <rect x="677.70" y="148" width="119.32" height="22" fill="#dea584"/>
-    <rect x="797.03" y="148" width="109.10" height="22" fill="#ff3e00"/>
-    <rect x="906.13" y="148" width="89.50" height="22" fill="#3178c6"/>
+    <rect x="328.77" y="148" width="212.73" height="22" fill="#f1e05a"/>
+    <rect x="541.49" y="148" width="136.21" height="22" fill="#3572A5"/>
+    <rect x="677.71" y="148" width="119.32" height="22" fill="#dea584"/>
+    <rect x="797.03" y="148" width="109.11" height="22" fill="#ff3e00"/>
+    <rect x="906.14" y="148" width="89.50" height="22" fill="#3178c6"/>
     <rect x="995.63" y="148" width="41.78" height="22" fill="#f34b7d"/>
     <rect x="1037.41" y="148" width="29.29" height="22" fill="#e34c26"/>
-    <rect x="1066.70" y="148" width="24.78" height="22" fill="#663399"/>
+    <rect x="1066.71" y="148" width="24.77" height="22" fill="#663399"/>
     <rect x="1091.48" y="148" width="46.52" height="22" fill="#3d4f5c"/>
   </g>
   <g clip-path="url(#barClip)">
     <rect x="62.00" y="148" width="266.77" height="22" fill="#5e5086"/>
-    <rect x="328.77" y="148" width="212.72" height="22" fill="#f1e05a"/>
-    <rect x="541.49" y="148" width="136.22" height="22" fill="#3572A5"/>
-    <rect x="677.70" y="148" width="119.32" height="22" fill="#dea584"/>
-    <rect x="797.03" y="148" width="109.10" height="22" fill="#ff3e00"/>
-    <rect x="906.13" y="148" width="89.50" height="22" fill="#3178c6"/>
+    <rect x="328.77" y="148" width="212.73" height="22" fill="#f1e05a"/>
+    <rect x="541.49" y="148" width="136.21" height="22" fill="#3572A5"/>
+    <rect x="677.71" y="148" width="119.32" height="22" fill="#dea584"/>
+    <rect x="797.03" y="148" width="109.11" height="22" fill="#ff3e00"/>
+    <rect x="906.14" y="148" width="89.50" height="22" fill="#3178c6"/>
     <rect x="995.63" y="148" width="41.78" height="22" fill="#f34b7d"/>
     <rect x="1037.41" y="148" width="29.29" height="22" fill="#e34c26"/>
-    <rect x="1066.70" y="148" width="24.78" height="22" fill="#663399"/>
+    <rect x="1066.71" y="148" width="24.77" height="22" fill="#663399"/>
     <rect x="1091.48" y="148" width="46.52" height="22" fill="#3d4f5c"/>
     <rect x="328.27" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
     <rect x="540.99" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
-    <rect x="677.20" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
+    <rect x="677.21" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
     <rect x="796.53" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
-    <rect x="905.63" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
+    <rect x="905.64" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
     <rect x="995.13" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
     <rect x="1036.91" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
-    <rect x="1066.20" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
+    <rect x="1066.21" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
     <rect x="1090.98" y="148" width="1" height="22" fill="#05080b" fill-opacity=".5"/>
     <rect x="62" y="148" width="1076" height="22" fill="url(#barSheen)"/>
   </g>
@@ -154,7 +154,7 @@
     <rect x="791.0" y="286" width="10" height="10" rx="2.5" fill="#663399"/>
     <text x="809.0" y="296" fill="#f2f7f6" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">CSS</text>
     <text x="791.0" y="325" fill="#663399" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="-0.8">2.30%</text>
-    <text x="791.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">996 KB</text>
+    <text x="791.0" y="342" fill="#5f7173" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4">995 KB</text>
   </g>
   <g>
     <rect x="1034.0" y="286" width="10" height="10" rx="2.5" fill="#3d4f5c"/>
